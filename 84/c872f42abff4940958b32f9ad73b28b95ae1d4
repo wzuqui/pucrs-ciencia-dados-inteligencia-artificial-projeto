@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.0",
+  "base_commit_sha": "84c872f42abff4940958b32f9ad73b28b95ae1d4",
+  "prompts": {},
+  "humans": {
+    "h_4eca365864dc34": {
+      "author": "Willian Luis Zuqui <willianluiszuqui@gmail.com>"
+    }
+  }
+}
